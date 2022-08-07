@@ -1,4 +1,6 @@
-# Movii
+# Movii       
+ 30/03/2021
+ 
  Film, dizi ve belgeselleri kaydedip takip etmemize sağlayan bir uygulama
  
  * Proje Android Studio da Java diliyle yazıldı. Veritabanı olarak 
