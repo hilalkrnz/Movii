@@ -20,7 +20,7 @@ sayesinde kullanıcı parolasını değiştirebiliyor ve hesaptan
 * Ekleme işlemini yaptıktan sonra ana ekrandan istediği 
 alana tıklayıp o alanda kaydettiklerine bakabiliyor ve silebiliyor.
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  
 
 ![login](https://user-images.githubusercontent.com/57602386/183288576-1c06d5b2-bfcd-4db5-a85c-ac46b546c3a9.png)
 
@@ -30,7 +30,7 @@ alana tıklayıp o alanda kaydettiklerine bakabiliyor ve silebiliyor.
 
 ![dizi](https://user-images.githubusercontent.com/57602386/183288593-c8714dc3-bf04-459a-8530-23b27f2b0ad9.png)
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ### Veri Tabanı Tasarım Diyagramı
 
